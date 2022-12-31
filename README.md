@@ -7,3 +7,4 @@ Write an object with keys as `firstName` and `lastName` and values as `John` and
 Import the object in the `importObject.js` file.
 
 <b>Use Common JS module syntax</b>.
+# Import-and-Export-an-Object-using-Common-JS-Module-Syntax
